@@ -2,6 +2,8 @@
 
 > 🗺 Generate a sitemap
 
+Generated sitemaps adhere to the protocol [described on sitemaps.org](https://www.sitemaps.org/protocol.html).
+
 ## Install
 
 ```
@@ -22,8 +24,6 @@ export default defineConfig({
 ```
 
 ## Configuration
-
-Configuration of this plugin adheres to the protocol [described on sitemaps.org](https://www.sitemaps.org/protocol.html).
 
 The `sitemap` function accepts an object with the following options:
 
@@ -65,7 +65,6 @@ A base url to prefix all pages with.
 
 ## TODO
 
-- Nested routes
 - Automatic loading & processing of `react-router` route definitions
 
 ## License
