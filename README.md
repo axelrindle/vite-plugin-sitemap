@@ -1,4 +1,7 @@
 [![CI](https://github.com/axelrindle/vite-plugin-sitemap/actions/workflows/ci.yml/badge.svg)](https://github.com/axelrindle/vite-plugin-sitemap/actions/workflows/ci.yml)
+![npm (scoped)](https://img.shields.io/npm/v/@axelrindle/vite-plugin-sitemap)
+[![commit style](https://img.shields.io/badge/Commits-Conventional-fa6673?logo=conventional-commits)](https://www.conventionalcommits.org/en/v1.0.0/)
+[![changelog style](https://img.shields.io/badge/Keep%20a-Changelog-e05735?logo=keep-a-changelog)](https://keepachangelog.com/en/1.1.0/)
 
 # vite-plugin-sitemap
 
