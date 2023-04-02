@@ -38,7 +38,10 @@
     },
     "homepage": "https://github.com/axelrindle/vite-plugin-sitemap#readme",
     "devDependencies": {
+        "@commitlint/cli": "^17.5.1",
+        "@commitlint/config-conventional": "^17.4.4",
         "@types/node": "^18.15.11",
+        "husky": "^8.0.3",
         "unbuild": "^1.2.0",
         "vite": "^4.0.0",
         "vitest": "^0.29.8"
