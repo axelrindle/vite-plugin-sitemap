@@ -1,3 +1,5 @@
+[![CI](https://github.com/axelrindle/vite-plugin-sitemap/actions/workflows/ci.yml/badge.svg)](https://github.com/axelrindle/vite-plugin-sitemap/actions/workflows/ci.yml)
+
 # vite-plugin-sitemap
 
 > 🗺 Generate a sitemap
