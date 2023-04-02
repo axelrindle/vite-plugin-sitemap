@@ -57,7 +57,7 @@ export default function sitemap(options: SitemapOptions): Plugin {
 
             const stats = await stat(file)
             viteOptions.logger.info(`
-                ${chalk.cyan(sitemap)}
+                ${chalk.cyan('sitemap')}
                 ${chalk.gray(` - generated ${file} with ${pages.length} entries (${stats.size}B)`)}
             `.trim())
         }
